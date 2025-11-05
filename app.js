@@ -47,7 +47,7 @@ function renderWeather({ cityDisplay, current }) {
         <div class="big">${t}°C</div>
         <div>
           <div><strong>${cityDisplay}</strong></div>
-          <div class="muted">umiditate: ${h}% · vânt: ${w} km/h</div>
+          <div class="muted">umiiditate: ${h}% · vânt: ${w} km/h</div>
         </div>
       </div>
       <div class="muted">actualizat: ${when}</div>
